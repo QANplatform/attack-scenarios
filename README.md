@@ -4,7 +4,7 @@ Demonstration of hardness of factorization vs. solving the shortest vector probl
 ## How to run
 
 ```sh
-docker run --rm -p 8888:8888 qanplatform/attack-scenarios
+docker run -it --rm -p 8888:8888 qanplatform/attack-scenarios
 ```
 
 After running the above command, you will be presented a token at the command line.
